@@ -1,6 +1,6 @@
 import random
 
-
+list1 = ["rock", "paper", "scissors"]
 
 # Player input
 choice = input("Choose rock, paper, or scissors: ")
